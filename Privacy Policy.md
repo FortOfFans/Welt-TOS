@@ -1,6 +1,6 @@
 <h1>Privacy Policy for Welt Yang</h1>
 
-<p>At Welt Yang, accessible from https://dysta.github.io/Welt YangLab/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Welt Yang and how we use it.</p>
+<p>At Welt Yang, accessible from https://github.com/FortOfFans/Welt-TOS/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Welt Yang and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 

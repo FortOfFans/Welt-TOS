@@ -47,7 +47,7 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 
 - Your in-game character builds received by [Enka-Network](https://enka.network/?hsr).
 - Your Bot settings for enabled notifications / embed preferred color
-- For more indepth info check [Privacy Policy](https://github.com/FortOfFans/Welt-TOS/blob/Privacy%20Policy/.md)
+- For more indepth info check [Privacy Policy](https://github.com/FortOfFans/Welt-TOS/blob/master/Privacy%20Policy.md)
 
 ## Discord Commands
 
