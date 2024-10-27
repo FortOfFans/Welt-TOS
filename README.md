@@ -46,6 +46,8 @@ Click [HERE](https://discord.gg/m2zg7tmsYv)
 #### We store following data:
 
 - Your in-game character builds received by [Enka-Network](https://enka.network/?hsr).
+- Your Bot settings for enabled notifications / embed preferred color
+- For more indepth info check [Privacy Policy](https://github.com/FortOfFans/Welt-TOS/blob/Privacy%20Policy/.md)
 
 ## Discord Commands
 
